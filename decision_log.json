@@ -1,0 +1,261 @@
+{
+  "niche": {
+    "cluster": "wedding_stationery",
+    "raw_score": 213.3,
+    "mentions": 0,
+    "single_word_hits": 3,
+    "season_boost": 1.6,
+    "world_state_boost": 94,
+    "competition_hits": 0,
+    "deliverability": 0.95,
+    "final_score": 324.2,
+    "evidence": [
+      {
+        "sub": "Etsy",
+        "title": "Wrong kilt - second time it\u2019s still not right.",
+        "score": 37,
+        "url": "https://reddit.com/r/Etsy/comments/1tca3yw/",
+        "matched_kw": "~wedding"
+      },
+      {
+        "sub": "Etsy",
+        "title": "Should I be worried?",
+        "score": 19,
+        "url": "https://reddit.com/r/Etsy/comments/1tb8pdl/",
+        "matched_kw": "~wedding"
+      },
+      {
+        "sub": "EtsySellers",
+        "title": "30 sales in my first month on Etsy!!! \ud83d\ude01",
+        "score": 185,
+        "url": "https://reddit.com/r/EtsySellers/comments/1t9l3nd/",
+        "matched_kw": "~wedding"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: wedding",
+        "score": 8,
+        "matched_kw": "wedding invitation",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: wedding",
+        "score": 8,
+        "matched_kw": "wedding invite",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: wedding",
+        "score": 8,
+        "matched_kw": "wedding template",
+        "url": "internal://world_state/consensus"
+      }
+    ],
+    "_research_brief": {
+      "answer_preview": "No relevant data in vault yet.",
+      "retrieved_chunks": 0,
+      "browsed_urls": [],
+      "source": "vault_after_browse"
+    },
+    "_live_theme": {
+      "theme": "Vintage Romance",
+      "source": "evergreen_cluster_safe",
+      "raw_count": 0,
+      "filter_match": true,
+      "all_candidates_top5": [
+        {
+          "phrase": "features are bust",
+          "raw_count": 4,
+          "filter_match": false,
+          "score": 12,
+          "kind": "trigram"
+        },
+        {
+          "phrase": "bust length sleeve",
+          "raw_count": 4,
+          "filter_match": false,
+          "score": 12,
+          "kind": "trigram"
+        },
+        {
+          "phrase": "length sleeve length",
+          "raw_count": 4,
+          "filter_match": false,
+          "score": 12,
+          "kind": "trigram"
+        },
+        {
+          "phrase": "plus size",
+          "raw_count": 5,
+          "filter_match": false,
+          "score": 10,
+          "kind": "bigram"
+        },
+        {
+          "phrase": "men plus size",
+          "raw_count": 3,
+          "filter_match": false,
+          "score": 9,
+          "kind": "trigram"
+        }
+      ],
+      "top_was_filter_unmatched": "features are bust",
+      "excluded_by_claims": [
+        "modern botanical illustration",
+        "botanical illustration earth",
+        "art moody botanical",
+        "old money wedding",
+        "slow sunday coffee",
+        "sunday coffee club",
+        "clothing size features",
+        "modern botanical",
+        "sunday coffee",
+        "short sleeve",
+        "modern",
+        "botanical"
+      ]
+    }
+  },
+  "all_ranked": [
+    {
+      "cluster": "wedding_stationery",
+      "raw_score": 213.3,
+      "mentions": 0,
+      "single_word_hits": 3,
+      "season_boost": 1.6,
+      "world_state_boost": 94,
+      "competition_hits": 0,
+      "deliverability": 0.95,
+      "final_score": 324.2,
+      "evidence": [
+        {
+          "sub": "Etsy",
+          "title": "Wrong kilt - second time it\u2019s still not right.",
+          "score": 37,
+          "url": "https://reddit.com/r/Etsy/comments/1tca3yw/",
+          "matched_kw": "~wedding"
+        },
+        {
+          "sub": "Etsy",
+          "title": "Should I be worried?",
+          "score": 19,
+          "url": "https://reddit.com/r/Etsy/comments/1tb8pdl/",
+          "matched_kw": "~wedding"
+        },
+        {
+          "sub": "EtsySellers",
+          "title": "30 sales in my first month on Etsy!!! \ud83d\ude01",
+          "score": 185,
+          "url": "https://reddit.com/r/EtsySellers/comments/1t9l3nd/",
+          "matched_kw": "~wedding"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: wedding",
+          "score": 8,
+          "matched_kw": "wedding invitation",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: wedding",
+          "score": 8,
+          "matched_kw": "wedding invite",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: wedding",
+          "score": 8,
+          "matched_kw": "wedding template",
+          "url": "internal://world_state/consensus"
+        }
+      ],
+      "_research_brief": {
+        "answer_preview": "No relevant data in vault yet.",
+        "retrieved_chunks": 0,
+        "browsed_urls": [],
+        "source": "vault_after_browse"
+      },
+      "_live_theme": {
+        "theme": "Vintage Romance",
+        "source": "evergreen_cluster_safe",
+        "raw_count": 0,
+        "filter_match": true,
+        "all_candidates_top5": [
+          {
+            "phrase": "features are bust",
+            "raw_count": 4,
+            "filter_match": false,
+            "score": 12,
+            "kind": "trigram"
+          },
+          {
+            "phrase": "bust length sleeve",
+            "raw_count": 4,
+            "filter_match": false,
+            "score": 12,
+            "kind": "trigram"
+          },
+          {
+            "phrase": "length sleeve length",
+            "raw_count": 4,
+            "filter_match": false,
+            "score": 12,
+            "kind": "trigram"
+          },
+          {
+            "phrase": "plus size",
+            "raw_count": 5,
+            "filter_match": false,
+            "score": 10,
+            "kind": "bigram"
+          },
+          {
+            "phrase": "men plus size",
+            "raw_count": 3,
+            "filter_match": false,
+            "score": 9,
+            "kind": "trigram"
+          }
+        ],
+        "top_was_filter_unmatched": "features are bust",
+        "excluded_by_claims": [
+          "modern botanical illustration",
+          "botanical illustration earth",
+          "art moody botanical",
+          "old money wedding",
+          "slow sunday coffee",
+          "sunday coffee club",
+          "clothing size features",
+          "modern botanical",
+          "sunday coffee",
+          "short sleeve",
+          "modern",
+          "botanical"
+        ]
+      }
+    }
+  ],
+  "platform_decision": {
+    "platform": "gh_pages",
+    "reason": "gh_pages chosen \u2014 top-ranked etsy blocked on missing etsy_seller_account. Ticket filed.",
+    "ready": true,
+    "preferred_blocked": "etsy",
+    "blocker": "etsy_seller_account",
+    "all_blocked_above": [
+      "etsy",
+      "minted",
+      "domain"
+    ],
+    "ladder": [
+      "etsy",
+      "minted",
+      "domain",
+      "gh_pages"
+    ]
+  },
+  "platform_blocker_ticket": "/Users/jmacsmac/agent-os/data/agent_needs/2026-05-16_platform_etsy_for_wedding_stationery.json"
+}
